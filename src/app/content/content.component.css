@@ -1,0 +1,29 @@
+.container {
+    display: block;
+    overflow-y: auto;
+    height: 80%;
+}
+
+p {
+    margin-bottom: 20px;
+    text-align: justify;
+    padding: 5px 10px;
+}
+
+h3 {
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding: 5px;
+}
+
+.btn-default {
+    padding: 5px 20px;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+
+.btn-default:hover {
+    background: #ccc;
+    cursor: pointer;
+}
