@@ -9,3 +9,7 @@ html, body, * {
     box-sizing: border-box;
 }
 
+.radio { padding: 5px 0; }
+
+.text-capitalize { text-transform: capitalize }
+
